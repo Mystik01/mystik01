@@ -1,7 +1,7 @@
-# Hi, I'm Scarsz.
-- I'm mainly a backend software engineer & system admin with a passion for computers.
-- I usually program in Java but am also comfortable with JavaScript, Python, and C#.
-- I dabble in embedded devices such as the ESP32 & Arduino Nano microcontrollers.
+# Hi, I'm Mystik.
+- I'm a student, I mostly make Discord bots but hoping to expand that.
+- I usually program in JavaScript but am also comfortable with Python.
+- I really want to learn c++ and learn to use game engines and hopefully get a career from it.
 
 ## Technology that I use
 <p align="center">
