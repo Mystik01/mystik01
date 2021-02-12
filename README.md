@@ -13,7 +13,7 @@
 <p align="center">
   <img alt="Tools" src="https://img.shields.io/badge/-Tools-000?style=flat-square&logo=semaphore%20ci&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="Visual Studio Code" src="https://img.shields.io/badge/visual%20studio%20code-badge-blue.svg?logo=visual%20studio%20code" />
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/visual%20studio%20code-badge-blue.svg" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="GitHub Actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
