@@ -1,7 +1,7 @@
-# Hi, I'm Mystik.
-- I'm mainly a Discord bot developer but wanting to create programs with diffenent purposes too. 
-- I usually program in JavaScript (node.js) but am also comfortable with Python.
-- I am hoping to learn c# and learn hgow to use game engines as I would like to go into a career building games. 
+# Hi, I'm Scarsz.
+- I'm mainly a backend software engineer & system admin with a passion for computers.
+- I usually program in Java but am also comfortable with JavaScript, Python, and C#.
+- I dabble in embedded devices such as the ESP32 & Arduino Nano microcontrollers.
 
 ## Technology that I use
 <p align="center">
@@ -13,7 +13,7 @@
 <p align="center">
   <img alt="Tools" src="https://img.shields.io/badge/-Tools-000?style=flat-square&logo=semaphore%20ci&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-style=flat-square&logo=linux&logoColor=white" />
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/visual%20studio%20code-badge-blue.svg?logo=visual%20studio%20code" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="GitHub Actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
