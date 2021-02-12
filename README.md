@@ -3,7 +3,7 @@
 - I usually program in JavaScript but am also comfortable with Python.
 - I really want to learn c++ and learn to use game engines and hopefully get a career from it.
 
-## Technology that I use
+## Stuff that I use
 <p align="center">
   <img alt="Languages" src="https://img.shields.io/badge/-Programming%20Languages-000?style=flat-square&logo=plex&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-222222?style=flat-square&logo=javascript" />
