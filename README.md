@@ -1,7 +1,6 @@
 # Hi, I'm Mystik.
 - I'm a student, I mostly make Discord bots but hoping to expand that.
-- I usually program in JavaScript but am also comfortable with Python.
-- I really want to learn c++ and learn to use game engines and hopefully get a career from it.
+- Prefer using JS but can do basic python too.
 
 ## Stuff that I use
 <p align="center">
