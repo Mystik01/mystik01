@@ -1,6 +1,5 @@
 # Hi, I'm Mystik.
-- I'm a student, I mostly make Discord bots but hoping to expand that.
-- Prefer using JS but can do basic python too.
+
 
 ## Stuff that I use
 <p align="center">
