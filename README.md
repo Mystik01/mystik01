@@ -7,7 +7,7 @@ Web Dev
 I started programming in Javascript during 2020 lockdown. Trying to learn to be a full stack dev.
 
 * 🌍  I'm based in London
-* ✉️  You can contact me at [logan@poq.gg](mailto:logan@poq.gg)
+* ✉️  You can contact me on [Discord](https://discord.com/users/590172271415525377)
 * 🧠  I'm learning React
 * 🤝  I'm open to collaborating on anything
 * ⚡  I'm amazing
