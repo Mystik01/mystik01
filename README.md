@@ -56,4 +56,4 @@ src="https://img.shields.io/twitch/status/mystik001?logo=twitchsx&style=for-the-
 
 ### Support Me
 
-<a href="https://www.buymeacoffee.com/myst1k"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="https://www.buymeacoffee.com/myst1k" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
