@@ -1,7 +1,7 @@
 Hi 👋 My name is Mystik
 =======================
 
-Web Dev
+About Me
 -------
 
 I started programming in Javascript during 2020 lockdown. Trying to learn to be a full stack dev.
