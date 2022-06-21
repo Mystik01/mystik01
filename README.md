@@ -7,7 +7,7 @@ About Me
 I started programming in Javascript during 2020 lockdown. Trying to learn to be a full stack dev.
 
 * 🌍  I'm based in London
-* 💼  I work remotely for [POQ.gg](https://www.poq.gg) as a community manager
+* 💼  I work remotely for [POQ.gg](https://www.poq.gg) as a community manager
 * ✉️  You can contact me on [Discord](https://discord.com/users/590172271415525377)
 * 🧠  I'm learning React
 * 🤝  I'm open to collaborating on anything
