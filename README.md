@@ -6,12 +6,12 @@ About Me
 
 I started programming in Javascript during 2020 lockdown. Trying to learn to be a full stack dev.
 
-* 🌍  I'm based in London
-* 💼  I work remotely for [POQ.gg](https://www.poq.gg) as a Community Manager
+* 🌍  I'm based in England
+* 💼 Student
 * ✉️  You can contact me on [Discord](https://discord.com/users/590172271415525377)
 * 🧠  I'm learning React
 * 🤝  I'm open to collaborating on anything
-* ⚡  I'm amazing
+* ⚡  HAve a good day
 
 <a href="https://www.twitter.com/mystik001" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/mystik001?logo=twitter&style=for-the-badge&color=f97316&labelColor=1c1917"
