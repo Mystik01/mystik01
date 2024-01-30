@@ -3,14 +3,7 @@ Hi 👋 My name is Mystik
 
 About Me
 -------
-
-JS
-
-<a href="https://www.twitter.com/mystik001" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/mystik001?logo=twitter&style=for-the-badge&color=f97316&labelColor=1c1917"
-/></a><a href="https://www.github.com/mystik01" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/mystik01?logo=github&style=for-the-badge&color=f97316&labelColor=1c1917" /></a><a href="https://www.twitch.tv/mystik001" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitch/status/mystik001?logo=twitchsx&style=for-the-badge&color=f97316&labelColor=1c1917&label=TWITCH+STATUS" /></a>
+i do it for fun
 
 ### Skills
 
